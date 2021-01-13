@@ -1,0 +1,25 @@
+.conversor{
+  padding: 40px;
+  max-width: 300px;
+  margin: 15px;
+  background-color: rgb(191, 199, 209);
+  box-shadow: 0 4px 8px 0 rgba(0, 0,0.2 );
+}
+
+.input{
+  border-radius: 5px;
+  padding: 3px;
+}
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.submitButton{
+  font-weight: bold;
+  padding: 6px;
+  margin-top: 5px;
+  background-color: blue;
+  color: white;
+}

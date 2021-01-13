@@ -1,0 +1,13 @@
+.linha{
+  display: flex;
+  margin-top: 40px;
+  justify-content:center;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+.App{
+  background-color:white;
+  
+}
